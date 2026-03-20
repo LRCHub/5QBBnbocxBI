@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "We Alive",
   "base_artist": "Cosmograph",
-  "createdAt": "2026-03-20T06:39:02.978524Z",
+  "createdAt": "2026-03-20T07:39:03.720642Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -243,6 +243,15 @@
       "artist": "Cosmograph",
       "has_synced": false,
       "path": "select/pl_01_We′re_never_giving_up_Cosmograph.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "We Alive",
+      "artist": "Cosmograph",
+      "has_synced": false,
+      "path": "select/localdb_01_We_Alive_Cosmograph.txt",
+      "repo_name": "5QBBnbocxBI"
     }
   ]
 }
