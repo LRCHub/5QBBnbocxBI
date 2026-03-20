@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "We Alive",
+  "base_artist": "Cosmograph",
+  "createdAt": "2026-03-20T06:37:53.854246Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Are We Alive Here - 2009 - Remaster",
+      "artist": "D-A-D",
+      "has_synced": true,
+      "path": "select/01_Are_We_Alive_Here_-_2009_-_Remaster_D-A-D.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Why Are We Alive?",
+      "artist": "Swans",
+      "has_synced": false,
+      "path": "select/02_Why_Are_We_Alive_Swans.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Alive",
+      "artist": "吳亦凡",
+      "has_synced": true,
+      "path": "select/03_We_Alive_吳亦凡.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Alive",
+      "artist": "Kris Wu [www.MusicBaran.Net]",
+      "has_synced": true,
+      "path": "select/04_We_Alive_Kris_Wu_[www.MusicBaran.Net].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Why Are We Alive_",
+      "artist": "Swans",
+      "has_synced": true,
+      "path": "select/05_Why_Are_We_Alive_Swans.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Are We Alive",
+      "artist": "Terror",
+      "has_synced": true,
+      "path": "select/06_Are_We_Alive_Terror.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Why Are We Alive?",
+      "artist": "Swans",
+      "has_synced": true,
+      "path": "select/07_Why_Are_We_Alive_Swans.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Are We Alive Here???",
+      "artist": "D-A-D",
+      "has_synced": true,
+      "path": "select/08_Are_We_Alive_Here_D-A-D.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Are We Alive Here???",
+      "artist": "D‐A‐D",
+      "has_synced": true,
+      "path": "select/09_Are_We_Alive_Here_D‐A‐D.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Alive",
+      "artist": "Kris Wu",
+      "has_synced": true,
+      "path": "select/10_We_Alive_Kris_Wu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Are We Alive Here???",
+      "artist": "Disneyland After Dark",
+      "has_synced": true,
+      "path": "select/11_Are_We_Alive_Here_Disneyland_After_Dark.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Are We Alive",
+      "artist": "Seibold",
+      "has_synced": true,
+      "path": "select/12_Are_We_Alive_Seibold.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Are We Alive",
+      "artist": "While The Heart Becomes",
+      "has_synced": true,
+      "path": "select/13_Are_We_Alive_While_The_Heart_Becomes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Are We Alive?",
+      "artist": "Augustines",
+      "has_synced": true,
+      "path": "select/14_Are_We_Alive_Augustines.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Alive",
+      "artist": "Kayden Green",
+      "has_synced": true,
+      "path": "select/15_We_Alive_Kayden_Green.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We All Lift Together (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/16_We_All_Lift_Together_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/17_We_Are_Never_Ever_Getting_Back_Together_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "We Can't Stop",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/18_We_Can't_Stop_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Kind of Love We Make",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/19_The_Kind_of_Love_We_Make_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "This Is How We Roll",
+      "artist": "Florida Georgia Line feat. Luke Bryan",
+      "has_synced": true,
+      "path": "select/20_This_Is_How_We_Roll_Florida_Georgia_Line_feat._Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "This Is How We Roll",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/21_This_Is_How_We_Roll_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "We Didn't Have Much",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/22_We_Didn't_Have_Much_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "We Don't Talk Anymore (feat. Selena Gomez)",
+      "artist": "Charlie Puth feat. Selena Gomez",
+      "has_synced": true,
+      "path": "select/23_We_Don't_Talk_Anymore_(feat._Selena_Gomez)_Charlie_Puth_feat._Selena_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Where We Started",
+      "artist": "Thomas Rhett feat. Katy Perry",
+      "has_synced": true,
+      "path": "select/24_Where_We_Started_Thomas_Rhett_feat._Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Where We Started",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/25_Where_We_Started_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "We Were In Love",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/26_We_Were_In_Love_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "The Mother We Share",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/27_The_Mother_We_Share_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "The Mother We Share (Errors remix)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/28_The_Mother_We_Share_(Errors_remix)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "We Sink",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/29_We_Sink_CHVRCHES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We′re never giving up",
+      "artist": "Cosmograph",
+      "has_synced": false,
+      "path": "select/pl_01_We′re_never_giving_up_Cosmograph.txt"
+    }
+  ]
+}
